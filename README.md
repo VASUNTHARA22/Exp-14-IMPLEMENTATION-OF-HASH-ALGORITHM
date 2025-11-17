@@ -1,4 +1,4 @@
-<img width="1422" height="629" alt="image" src="https://github.com/user-attachments/assets/7a99470a-d617-4e6e-ae22-0a80e312d7cd" />## Exp 14 : IMPLEMENTATION OF HASH ALGORITHM
+## Exp 14 : IMPLEMENTATION OF HASH ALGORITHM
 
 
 ## AIM:
